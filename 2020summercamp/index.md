@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mdpage
 title: 2020 Summer Camp
 description: Spartan Robotics 2020 Summer Camp information and registration.
 ---
@@ -83,4 +83,3 @@ Learn the basics of coding with fun hands-on and computer based learning.  We wi
 ### Basics of Programming - 
 
 Basics of Programming will build on the Intro to Programming option and will take a deeper dive into programming with a choose your own adventure model: learning game design with Gamechangineer, looping and conditionals in Scratch, Create a CS First Animation project or introduction to text based coding. This option pairs well with the Intro to Programming option for motivated campers and can be a great choice for campers with prior coding experience/high motivation.
-
