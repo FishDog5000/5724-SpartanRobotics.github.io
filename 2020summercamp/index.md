@@ -37,6 +37,8 @@ Please email Randy Brinkley at <a class="link" href="mailto:rbrinkley@salem.k12.
 | Kid Wind (Grimshaw)        | Rising 4th-6th | $75   | 20                |
 | Intro to Program(Graybill) | Rising 4th-6th | $75   | 20                |
 
+<br>
+<br>
 
 ## Afternoon session - 1 to 4 p.m.
 
@@ -48,7 +50,8 @@ Please email Randy Brinkley at <a class="link" href="mailto:rbrinkley@salem.k12.
 | Kid Wind (Grimshaw)         | Rising 4th-6th | $75   | 20                |
 | Basics of Program(Graybill) | Rising 4th-6th | $75   | 20                |
 
-
+<br>
+<br>
 
 ### LEGO (EV3) ROBOTICS -
 
